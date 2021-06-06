@@ -5,7 +5,7 @@
 <h4>Compilado de códigos acerca do sistema do projeto integrador</h1> 
 Descrição: <b><i>LOTUS</i></b> trata-se de uma rede social voltada para mulheres vitmas de discriminação e desigualdade dentro do ambiente de trabalho.
  
-O objetivo é coletarmos reclamações e denúncias feitas pelas usuárias e de forma efetiva expor/notificar empresas que praticam qualquer tipo injuria contra a mulher.
+O objetivo é coletarmos reclamações e denúncias feitas pelas usuárias dentro do ambiente de trabalho.
 
 ---------------------------------------------------------------------------------
 
