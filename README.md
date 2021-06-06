@@ -1,6 +1,6 @@
 
 
-# Projeto Integrador <img src = "https://brazil.generation.org/wp-content/uploads/2019/04/video-brasil-second-video.png" height=40 width=63> :ok_hand: :raised_hands:
+# Projeto Integrador 
 
 <h4>Compilado de códigos acerca do sistema do projeto integrador</h1> 
 Descrição: <b><i>LOTUS</i></b> trata-se de uma rede social voltada para mulheres vitmas de discriminação e desigualdade dentro do ambiente de trabalho.
