@@ -3,9 +3,7 @@
 # Projeto Integrador 
 
 <h4>Compilado de códigos acerca do sistema do projeto integrador</h1> 
-Descrição: <b><i>LOTUS</i></b> trata-se de uma rede social voltada para mulheres vitmas de discriminação e desigualdade dentro do ambiente de trabalho.
- 
-O objetivo é coletarmos reclamações e denúncias feitas pelas usuárias dentro do ambiente de trabalho.
+Descrição: <b><i>LOTUS</i></b> Trata-se de uma rede social voltada a identificar a experiência das mulheres dentro do ambiente de trabalho. A Lotus possibilita que os integrantes forneçam informações positivas ou negativas relacionadas a igudalde de gênero dentro das empresas. A rede permite que as empresas exponham suas atitudes relacionadas a igualdade de gênero e ações que visam incentivar as mulheres a atingirem seus objetivos pessoalmente e profissionalmente. Baseada nas experiências relatadas e engajamento positivo ou negativo, as empresas criam uma reputação que é exibida em seu perfil, permitindo as pessoas avaliarem o seu ingresso naquela empresa. 
 
 ---------------------------------------------------------------------------------
 
