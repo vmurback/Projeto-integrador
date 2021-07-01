@@ -35,6 +35,6 @@ Descrição: <b><i>LOTUS</i></b> trata-se de uma rede social voltada a identific
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" />
+
 </p>
 
